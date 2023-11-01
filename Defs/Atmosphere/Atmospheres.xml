@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<TAC.AtmosphericValueDef>
+		<defName>Atmosphere_CarbonMonoxide</defName>
+		<label>carbon monoxide</label>
+		<collectionDef>Atmosphere_Air</collectionDef>
+		<labelShort>CO</labelShort>
+		<atmosphericTag>Air</atmosphericTag>
+		<networkValue>Network_CarbonMonoxide</networkValue>
+		<valueColor>(73, 76, 84)</valueColor>
+		<useRenderLayer>false</useRenderLayer>
+	</TAC.AtmosphericValueDef>
+
+	<TeleCore.NetworkValueDef>
+		<defName>Network_CarbonMonoxide</defName>
+		<label>carbon monoxide</label>
+		<labelShort>CO</labelShort>
+		<collectionDef>AtmosphericNetwork</collectionDef>
+		<valueColor>(73, 76, 84)</valueColor>
+	</TeleCore.NetworkValueDef>
+	
+</Defs>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--
+	<HediffGiverSetDef>
+		<defName>Hypoxia</defName>
+		<hediffGivers>
+			<li Class="NMO.Oxygen.HediffGiver_Hypoxia">
+				<hediff>Hypoxia</hediff>
+			</li>
+		</hediffGivers>		
+	</HediffGiverSetDef>
+	-->
+</Defs>
